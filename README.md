@@ -1,2 +1,2 @@
 # mymlg
-A simple syntax highlighting for coq extension files(.mlg)
+A simple vscode extension for syntax highlighting coq extension files(.mlg)
