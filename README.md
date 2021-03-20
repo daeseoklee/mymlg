@@ -1,5 +1,10 @@
 # mymlg
 A simple vscode extension for syntax highlighting coq extension files(.mlg)
+
+<hr/>
+
+## Sample
+![sample](./images/sample1.png)
 <hr/>
 
 ## Installation 
